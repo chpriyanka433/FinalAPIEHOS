@@ -5,14 +5,14 @@
     "title": "Swagger Implementation",
     "description": "swagger implementation to this APIs"
   },
-  "host": "https://ehospiapifinal.herokuapp.com",
+  "host": "finallyapiehos.heroku.com",
   "basePath": "/",
   "tags": [
     {
       "name": "Application"
     }
   ],
-  "schemes": ["http"],
+  "schemes": ["http", "https"],
   "consumes": ["application/json"],
   "produces": ["application/json"],
   "securityDefinitions": {
