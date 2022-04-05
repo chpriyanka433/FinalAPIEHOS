@@ -5,7 +5,7 @@
     "title": "Swagger Implementation",
     "description": "swagger implementation to this APIs"
   },
-  "host": "localhost:3000",
+  "host": "https://ehospiapifinal.herokuapp.com",
   "basePath": "/",
   "tags": [
     {
