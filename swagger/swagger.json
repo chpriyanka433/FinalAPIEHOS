@@ -5,7 +5,7 @@
     "title": "Swagger Implementation",
     "description": "swagger implementation to this APIs"
   },
-  "host": "finallyapiehos.heroku.com",
+  "host": "finallyapiehos.herokuapp.com",
   "basePath": "/",
   "tags": [
     {
