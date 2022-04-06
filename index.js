@@ -23,4 +23,4 @@ async function main() {
 main();
 
 app.use("/", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
-app.listen(port, () => console.log(`Server listening on port 3000`));
+app.listen(port, () => console.log(`Server should be listening on port 3000 only`));
